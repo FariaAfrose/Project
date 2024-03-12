@@ -15,9 +15,7 @@ export default function Column({ state }) {
       <div className="titleWrapper">
         {' '}
         <p>
-          {' '}
           {state}
-
         </p>
         {/* <button type="button" onClick={() => { addTask(`asdsa${state}`, state); }}>Add</button> */}
         <Button type="primary" onClick={() => (setOpen(true))}>Add</Button>
