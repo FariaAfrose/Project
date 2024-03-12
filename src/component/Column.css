@@ -23,7 +23,7 @@
   height: fit-content;
   cursor: pointer;
 }
-
+/* // */
 .titleWrapper button:hover {
   background: var(--COLOR-GRAY-LIGHT);
 }
